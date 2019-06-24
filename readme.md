@@ -7,14 +7,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Database connection
+## Database connection credentials
+Remember to create the database!
 
-DB_CONNECTION=mysql
-DB_HOST=84.19.166.106
-DB_PORT=3306
-DB_DATABASE=epico
-DB_USERNAME=root
-DB_PASSWORD=
+- DB_CONNECTION=mysql
+- DB_HOST=84.19.166.106
+- DB_PORT=3306
+- DB_DATABASE=epico
+- DB_USERNAME=root
+- DB_PASSWORD=
 
 ## License
 
